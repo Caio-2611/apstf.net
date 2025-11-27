@@ -1,0 +1,12 @@
+/workspaces/APSFINAL/APS-Final.Domain/bin/Debug/net8.0/APS-Final.Domain.deps.json
+/workspaces/APSFINAL/APS-Final.Domain/bin/Debug/net8.0/APS-Final.Domain.dll
+/workspaces/APSFINAL/APS-Final.Domain/bin/Debug/net8.0/APS-Final.Domain.pdb
+/workspaces/APSFINAL/APS-Final.Domain/obj/Debug/net8.0/APS-Final.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/APSFINAL/APS-Final.Domain/obj/Debug/net8.0/APS-Final.Domain.AssemblyInfoInputs.cache
+/workspaces/APSFINAL/APS-Final.Domain/obj/Debug/net8.0/APS-Final.Domain.AssemblyInfo.cs
+/workspaces/APSFINAL/APS-Final.Domain/obj/Debug/net8.0/APS-Final.Domain.csproj.CoreCompileInputs.cache
+/workspaces/APSFINAL/APS-Final.Domain/obj/Debug/net8.0/APS-Final.Domain.sourcelink.json
+/workspaces/APSFINAL/APS-Final.Domain/obj/Debug/net8.0/APS-Final.Domain.dll
+/workspaces/APSFINAL/APS-Final.Domain/obj/Debug/net8.0/refint/APS-Final.Domain.dll
+/workspaces/APSFINAL/APS-Final.Domain/obj/Debug/net8.0/APS-Final.Domain.pdb
+/workspaces/APSFINAL/APS-Final.Domain/obj/Debug/net8.0/ref/APS-Final.Domain.dll
